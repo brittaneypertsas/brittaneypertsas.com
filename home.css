@@ -14,3 +14,7 @@ li{
   font-size: 50px;
 
 }
+ul{
+  border-style: solid;
+  color: blue;
+}
