@@ -13,5 +13,5 @@ li{
   display: inline;
   font-size: 50px;
   list-style-type: none;
-  color: white;
+  list-style: none;
 }
