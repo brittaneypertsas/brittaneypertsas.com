@@ -3,9 +3,11 @@ body{
 }
 h{
   font-size: 100px;
-  align-self: auto;
+  align-content: center;
+
 }
 p{
   font-size: 50px;
-  align-self: center;
+  align-content: center;
+
 }
