@@ -7,11 +7,13 @@ margin-left: 160px;
 }
 p{
   font-size: 50px;
+  text-decoration-color: white;
 
 }
 li{
   display: inline;
   font-size: 50px;
+  text-decoration-color: white;
   margin-left: 80px;
 
 }
