@@ -17,7 +17,7 @@ font-style:normal;
   font-family: 'Dynalight';
 
 li{
-
+list-style-type: none;
   margin: 50px;
   font-style: oblique;
     font-family: 'Bilbo Swash Caps';
@@ -27,7 +27,7 @@ li{
 ul{
 font-style: oblique;
   font-family: 'Bilbo Swash Caps';
-
+list-style-type: none;
 margin: 100px;
 width: 100px;
 
