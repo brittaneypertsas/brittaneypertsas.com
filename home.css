@@ -12,6 +12,11 @@ p{
 
 }
 
+li a:hover{
+  background-color: #555
+  color: blue;
+}
+
 ul{
   font-variant: cursive;
 list-style-type: none;
