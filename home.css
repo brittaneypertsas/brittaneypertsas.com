@@ -11,11 +11,10 @@ p{
   font-variant:cursive;
 
 }
-
-li a:hover{
-  background-color: #555
-  color: blue;
+li{
+  margin: 100px;
 }
+
 
 ul{
   font-variant: cursive;
