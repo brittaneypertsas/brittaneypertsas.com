@@ -1,3 +1,5 @@
+<link href='https://fonts.googleapis.com/css?family=Bilbo Swash Caps' rel='stylesheet'>
+
 body{
   background-color: beige;
 
@@ -6,24 +8,26 @@ h{
 font-style: italic;
   font-size: 50px;
   margin-left: 500px;
+  font-family: 'Bilbo Swash Caps';
 
 
 }
 p{
   font-size: 25px;
 font-style: oblique;
-font: 20px "Times New Roman", serif;
+  font-family: 'Bilbo Swash Caps';
 
 li{
 
   margin: 50px;
   font-style: oblique;
+    font-family: 'Bilbo Swash Caps';
 }
 
 
 ul{
 font-style: oblique;
-
+  font-family: 'Bilbo Swash Caps';
 
 margin: 100px;
 width: 100px;
