@@ -1,9 +1,9 @@
 body{
   background-color: beige;
-  font-family: Goudy Bookletter 1911, sans-serif;
+
 }
 h{
-font-family: Goudy Bookletter 1911, sans-serif;
+font-style: italic;
   font-size: 50px;
   margin-left: 500px;
 
@@ -12,16 +12,19 @@ font-family: Goudy Bookletter 1911, sans-serif;
 p{
   font-size: 25px;
 font-style: oblique;
+font: 20px cursive, serif;
 
 li{
+
   margin: 50px;
-  font-family: Goudy Bookletter 1911, sans-serif;
+  font-style: oblique;
 }
 
 
 ul{
-font-family: Goudy Bookletter 1911, sans-serif;
-list-style-type: none;
+font-style: oblique;
+
+
 margin: 100px;
 width: 100px;
 
