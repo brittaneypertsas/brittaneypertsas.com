@@ -2,7 +2,7 @@ body{
   background-color: blanchedalmond;
 }
 h{
-  font-family: cursive;
+  font: cursive;
   font-size: 100px;
 margin-left: 160px;
 }
