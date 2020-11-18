@@ -2,18 +2,18 @@ body{
   background-color: blanchedalmond;
 }
 h{
-  font: cursive;
+  font-variant: cursive;
   font-size: 100px;
 margin-left: 160px;
 }
 p{
   font-size: 25px;
-  font-family: cursive;
+  font-variant:cursive;
 
 }
 
 ul{
-  font-family: cursive;
+  font-variant: cursive;
 list-style-type: none;
 margin: 0;
 padding: 0;
