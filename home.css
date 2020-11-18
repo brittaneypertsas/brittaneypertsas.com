@@ -1,26 +1,26 @@
 body{
   background-color: blanchedalmond;
+  font-family: Goudy Bookletter 1911, sans-serif;
 }
 h{
-
+font-family: Goudy Bookletter 1911, sans-serif;
   font-size: 100px;
 margin-left: 160px;
 }
 p{
   font-size: 25px;
-font-family: "Apple Chancery";
-
+font-family: Goudy Bookletter 1911, sans-serif;
 }
 li{
   margin: 50px;
+  font-family: Goudy Bookletter 1911, sans-serif;
 }
 
 
 ul{
-
+font-family: Goudy Bookletter 1911, sans-serif;
 list-style-type: none;
 margin: 100px;
-
 width: 100px;
 
 }
