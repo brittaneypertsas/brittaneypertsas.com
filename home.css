@@ -2,13 +2,13 @@ body{
   background-color: blanchedalmond;
 }
 h{
-  font-variant: cursive;
+
   font-size: 100px;
 margin-left: 160px;
 }
 p{
   font-size: 25px;
-  font-variant:cursive;
+
 
 }
 li{
@@ -17,7 +17,7 @@ li{
 
 
 ul{
-  font-variant: cursive;
+
 list-style-type: none;
 margin: 100px;
 
