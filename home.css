@@ -20,6 +20,7 @@ font-style:normal;
 
 ul{
 list-style-type: none;
+text-decoration: none;
   font-family: 'Amiri';
 margin: 25px;
 width: 25px;
