@@ -34,7 +34,7 @@ a:hover{
 
 .grid-container {
   display: grid;
-  grid-template-columns:
+  grid-template-columns:auto auto auto;
   grid-gap: 10px;
   background-color: ghostwhite;
   padding: 10px;
