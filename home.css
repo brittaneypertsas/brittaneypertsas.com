@@ -42,3 +42,8 @@ row{
     display: table;
     clear: both;
 }
+
+img{
+  width: 20px;
+  height: 20px;
+}
