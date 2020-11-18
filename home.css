@@ -15,7 +15,9 @@ p{
   font-size: 21px;
 font-style:normal;
   font-family: 'Dynalight';
-float: right;
+padding-left: 175px;
+padding-right: 175px;
+
 }
 
 ul{
