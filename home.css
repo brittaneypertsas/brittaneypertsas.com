@@ -15,19 +15,11 @@ p{
   font-size: 25px;
 font-style:normal;
   font-family: 'Dynalight';
-
-li{
-
-  margin: 50px;
-  font-style: oblique;
-    font-family: 'Bilbo Swash Caps';
 }
 
-
 ul{
-font-style: oblique;
+list-style-type: none;
   font-family: 'Bilbo Swash Caps';
-list-style-type:georgian;
 margin: 100px;
 width: 100px;
 
