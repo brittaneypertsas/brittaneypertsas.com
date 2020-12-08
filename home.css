@@ -46,6 +46,15 @@ width: 25px;
 font-size: 25px;
 
 }
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
 
 a:hover{
   background-color: gray;
