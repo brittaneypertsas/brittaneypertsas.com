@@ -1,4 +1,6 @@
-
+body {
+  background-color: gray;
+}
 
 nav {
     padding-left: 0;
