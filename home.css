@@ -56,3 +56,9 @@ a:hover{
   display: auto auto auto;
   grid-template-columns: 80px 80px 80px;
   justify-content: space-evenly;
+}
+
+.sextet{
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
