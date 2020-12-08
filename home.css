@@ -54,12 +54,15 @@ a:hover{
 
 .grid-container {
   display: grid;
-  grid-template-columns:auto auto auto;
-  grid-gap: 5px;
+grid-gap: 5px;
   background-color: ghostwhite;
   padding: 5px;
 
   font-family: 'Barlow'
+}
+.gallery{
+  grid-row-start: 1;
+  grid-row-end: 3;
 }
 .container {
   border-radius: 5px;
