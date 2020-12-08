@@ -20,9 +20,17 @@ div.desc {
 }
 
 
-
+nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    float:right;
+    display:inline;
+}
 h{
-
+  line-height: 45px;
+  margin: 0;
+  display:inline;
   font-size: 50px;
   font-family: 'Inconsolata';
 color: black;
