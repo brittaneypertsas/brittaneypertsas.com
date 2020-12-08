@@ -53,3 +53,7 @@ a:hover{
 }
 
 .grid-container {
+  display: auto auto auto;
+  grid-template-columns: 80px 80px 80px;
+
+}
