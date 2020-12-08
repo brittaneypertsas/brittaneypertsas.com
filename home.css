@@ -55,13 +55,6 @@ a:hover{
 .grid-container {
   display: auto auto auto;
   grid-template-columns: 80px 80px 80px;
+  column-gap: 5px;
   justify-content: space-evenly;
-}
-
-.ArtemisiaSextet{
-grid-column: 1 ;
-}
-
-.ASPENPIC{
-  grid-column: 3;
 }
