@@ -26,13 +26,14 @@ font-style: italic;
   font-size: 50px;
   margin-left: 500px;
   font-family: 'Inconsolata';
+  background-color: ghostwhite;
 
 
 }
 p{
   font-size: 21px;
 font-style:normal;
-  font-family: 'Bilbo Swash Caps';
+  font-family: 'Inconsolata';
 padding-left: 275px;
 padding-right: 275px;
 
