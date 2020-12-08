@@ -39,7 +39,7 @@ padding-right: 275px;
 }
 
 ul{
-list-style-type: horizontally;
+list-style-type: none;
   font-family: 'Barlow';
 margin: 25px;
 width: 25px;
