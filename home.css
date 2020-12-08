@@ -64,9 +64,3 @@ grid-gap: 5px;
   grid-row-start: 1;
   grid-row-end: 3;
 }
-.container {
-  border-radius: 5px;
-  background-color: lightpink;
-  padding: 20px;
-  font-family: 'Barlow';
-}
