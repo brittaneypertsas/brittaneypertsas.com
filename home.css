@@ -2,7 +2,7 @@
 
 nav {
     padding-left: 0;
-    padding-left: 20px;
+    padding-right: 20px;
     margin-bottom: 0;
     list-style: none;
     float:right;
@@ -12,6 +12,7 @@ h{
   line-height: 45px;
   margin: 0;
   display:inline;
+  float: left;
   font-size: 50px;
   font-family: 'Inconsolata';
 color: black;
