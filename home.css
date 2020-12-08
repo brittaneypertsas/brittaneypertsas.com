@@ -6,7 +6,7 @@
   padding: 10px;
 }
 
-
+background: -webkit-linear-gradient(left, grey, grey 30%, white 30%, white);
 
 body {
   background-color: gray;
