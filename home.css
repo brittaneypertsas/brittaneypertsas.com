@@ -1,15 +1,15 @@
-div.gallery {
+div.grid-container {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
 
-div.gallery:hover {
+div.grid-container:hover {
   border: 1px solid #777;
 }
 
-div.gallery img {
+div.grid-container img {
   width: 100%;
   height: auto;
 }
