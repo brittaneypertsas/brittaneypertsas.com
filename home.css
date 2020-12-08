@@ -58,6 +58,10 @@ a:hover{
   justify-content: space-evenly;
 }
 
-.sextet{
-grid-column: 1 / span 3;
+.ArtemisiaSextet{
+grid-column: 1 / span 2;
+}
+
+.ASPENPIC{
+  grid-column: 3
 }
