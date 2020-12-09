@@ -14,8 +14,51 @@
     height: 100%;
     object-fit: cover;
     display: inline-block;
+
+  }
+  .gallery__item--1 {
+    display: inline;
+
+
   }
 
-  
+  .gallery__item--2 {
+display:inline;
+
+
+  }
+
+  .gallery__item--3 {
+    display: inline;
+
+  }
+
+  .gallery__item--4 {
+display: inline;
+
+
+  }
+
+  .gallery__item--5 {
+  display: inline;
+
+  }
+
+  .gallery__item--6 {
+  display: inline;
+
+  }
+
+  .gallery__item--7 {
+    display: inline;
+
+  }
+  .gallery__item--8 {
+  display: inline;
+
+}
+
+  .gallery__item--9 {
+  display: inline;
 
 }
