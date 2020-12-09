@@ -17,6 +17,8 @@ p{
 font-style:normal;
   font-family: 'Playfair Display';
 float: right;
+border-style: dotted;
+border-color: #1abc9c;
 
 
 }
