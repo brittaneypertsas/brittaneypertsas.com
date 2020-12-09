@@ -6,7 +6,8 @@
   }
 
   .h1{
-    padding-right: 50px;
+    padding: 0px;
+    float: left;
 
   }
   .gallery__img {
