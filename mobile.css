@@ -6,7 +6,7 @@
   }
 
   .h1{
-    padding: 0px;
+    padding-right: 30px;
 
   }
   .gallery__img {
@@ -61,4 +61,8 @@ display: inline;
   .gallery__item--9 {
   display: inline;
 
+}
+.img{
+  height: 300px;
+  width: 200px;
 }
